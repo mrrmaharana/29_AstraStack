@@ -1,4 +1,0 @@
-{
-  "/api/extract-metadata/route": "app/api/extract-metadata/route.js",
-  "/page": "app/page.js"
-}
